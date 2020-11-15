@@ -35,7 +35,9 @@ $ firebase login
 $ firebase init
 ```
 
-5. After configuring the project, run the following
+5. Place all of your code in the 'public' folder
+
+6. After configuring the project, run the following
 
 ```
 $ firebase deploy
